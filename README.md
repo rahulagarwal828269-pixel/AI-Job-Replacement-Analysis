@@ -33,7 +33,8 @@ The SQL script (`ai_job_replacement_2026.sql`) performs several advanced queries
 ## 📈 Visualizing the Data
 *(If you create a dashboard for this project later, replace the image file name below and upload your screenshot to this repository!)*
 
-![AI Job Replacement Dashboard](dashboard_snapshot.jpg)
+<img width="1303" height="730" alt="AI_Job_Replacement_Dashboard" src="https://github.com/user-attachments/assets/0317138d-b2a4-4e77-9e8b-fb004e367121" />
+
 
 ## 🚀 How to Run This Project
 1. Clone this repository to your local machine.
